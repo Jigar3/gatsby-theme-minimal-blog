@@ -21,7 +21,7 @@ const Footer = () => {
       }}
     >
       <div>
-        &copy; {new Date().getFullYear()} by {siteTitle}. All rights reserved.
+        &copy; {new Date().getFullYear()} by {siteTitle} | Theme By <a href="https://www.gatsbyjs.org/starters/LekoArts/gatsby-starter-minimal-blog/">LekoArts</a>
       </div>
     </footer>
   )
