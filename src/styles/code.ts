@@ -30,10 +30,11 @@ export default {
     display: `inline-block`,
   },
   "p > code, li > code": {
-    bg: `rgba(0, 0, 0, 0.055)`,
-    color: `black`,
+    bg: `rgb(61, 80, 138)`,
+    color: `rgba(255, 255, 255, 0.8)`,
+    borderRadius: `0 0 0.25rem 0.25rem`,
     px: 2,
-    py: 1,
+    py: 0.8,
   },
   ".gatsby-highlight": {
     fontSize: 1,
